@@ -1,0 +1,18 @@
+{
+  "name": "CalculatorAppTS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jasmine": "^2.5.47",
+    "@types/node": "^7.0.21",
+    "protractor": "^5.1.2",
+    "typescript": "^2.3.2"
+  }
+}
