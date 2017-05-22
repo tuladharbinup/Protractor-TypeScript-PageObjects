@@ -49,3 +49,4 @@
 </ul>
 <span class="source shell">protractor conf.js</span></div>
 <pre class="ng-scope"><span style="text-decoration: underline;"><strong><code>&nbsp;</code></strong></span></pre>
+<pre class="ng-scope">Angular application used for demo: http://juliemr.github.io/protractor-demo/</pre>
