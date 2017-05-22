@@ -45,7 +45,7 @@
 <p><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; tsc</strong>&nbsp;&nbsp;</p>
 <ul>
 <li>After successfull compilation all your javascript files would be generated.</li>
-<li>The run protractor</li>
+<li>Then run protractor with the following command</li>
 </ul>
 <span class="source shell">protractor conf.js</span></div>
 <pre class="ng-scope"><span style="text-decoration: underline;"><strong><code>&nbsp;</code></strong></span></pre>
